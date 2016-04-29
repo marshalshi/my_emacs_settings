@@ -1,0 +1,26 @@
+cd ..
+cd txtfiles/
+ls
+ls
+ls offline_9gag/
+ls core/
+ls
+ls visualizations/
+less visualizations/apps.py 
+less visualizations/apps.py 
+ls
+ls templates/visualizations/
+ls static
+ls scripts/
+ls notebooks/
+ls
+ls
+ocamlc a.ml 
+ocamlc a.ml 
+ls
+rm a.out 
+rm a.cmo
+ls
+rm a.cmi 
+ls
+ocaml a.ml 
